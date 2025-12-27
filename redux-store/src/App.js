@@ -12,7 +12,7 @@ function App() {
     <div style={{backgroundColor:theme.bgColor, color:theme.fontColor}} className="App">
       <div>
          <p>initial value is {counter}</p>
-         <button onClick={()=>dispatch({type:"counter/increment", payload:5})}>Increse value by 5</button>
+         <button onClick={()=>dispatch({type:"counter/increment", payload:5})}>Increse by 5</button>
       </div>
       <div>
          <button onClick={()=>dispatch({type:"theme/bgColor",payload:'red'})}>Change background color to red</button>
