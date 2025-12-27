@@ -15,7 +15,7 @@ function App() {
          <button onClick={()=>dispatch({type:"counter/increment", payload:5})}>Increse value by 5</button>
       </div>
       <div>
-         <button onClick={()=>dispatch({type:"theme/bgColor",payload:'red'})}>Change bg to red</button>
+         <button onClick={()=>dispatch({type:"theme/bgColor",payload:'red'})}>Change background color to red</button>
       </div>
     </div>
   );
