@@ -1,0 +1,25 @@
+{
+   "products": [
+      {
+         "id":"1",
+         "title":"Product 1",
+         "price":480,
+         "description":"p 1",
+         "image":"https://www.shutterstock.com/image-vector/illustration-cricket-bat-on-isolated-260nw-2452695663.jpg"
+      },
+      {
+         "id":"2",
+         "title":"BasketBall 1",
+         "price":250,
+         "description":"p 2",
+         "image":"https://cdn.pixabay.com/photo/2022/11/22/20/25/ball-7610545_1280.jpg"
+      },
+      {
+         "id":"3",
+         "title":"Football",
+         "price":520,
+         "description":"p 3",
+         "image":"https://assets.telegraphindia.com/abp/2024/Jan/1705482243_football-1.jpg"
+      }
+   ]
+}
